@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Jeric Punay</h1>
+<div align="center">
 
-<h3 align="center">Data Analyst • Software Developer • AI Enthusiast</h3>
+<h1>Hi 👋, I'm Jeric Punay</h1>
 
-<p align="center">
-  Turning <b>data into insights</b> and <b>ideas into impactful software.</b>
+<p>
+  <i>Turning <b>data into insights</b> and <b>ideas into impactful software.</b></i>
 </p>
 
-<p align="center">
+<h3>Data Analyst • Software Developer • AI Enthusiast</h3>
+
+<br>
+
+<p>
   <a href="https://komarev.com/ghpvc/?username=Jericwin">
-    <img src="https://komarev.com/ghpvc/?username=Jericwin&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Jericwin&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Jericwin?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jericwin?color=22c55e&style=for-the-badge" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Jericwin?color=22c55e&style=flat-square" alt="Followers"/>
   </a>
   <a href="https://github.com/Jericwin">
-    <img src="https://img.shields.io/github/stars/Jericwin?affiliations=OWNER&color=22c55e&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Open%20to-Work-22c55e?style=for-the-badge&logo=cachet" alt="Open To Work"/>
+    <img src="https://img.shields.io/github/stars/Jericwin?affiliations=OWNER&color=22c55e&style=flat-square" alt="Stars"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/jericpunay">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
@@ -33,103 +34,91 @@
   </a>
 </p>
 
----
+<br>
+<hr style="width: 50%; border: 1px solid #22c55e;">
+<br>
 
-<h2 align="center">💫 About Me</h2>
+<h2>💫 About Me</h2>
 
-<p align="center">
-  <b>🔭 Currently Working On:</b> Data Analytics Projects, BI Dashboards, Full-Stack Web Apps, Automation Tools<br>
-  <b>🌱 Currently Learning:</b> Artificial Intelligence, Machine Learning, Cloud (AWS/Azure), DevOps, Docker, Kubernetes<br>
-  <b>👯 Looking to Collaborate On:</b> Open Source, AI Projects, Dashboard Development<br>
-  <b>💬 Ask Me About:</b> Python, SQL, C#, React, Flask, Power BI, RESTful APIs<br>
-  <b>📫 Contact:</b> punay.jeric@gmail.com | <b>🌐 Portfolio:</b> <a href="https://jericwin.github.io/Jeric-s-Portfolio/">View Here</a><br>
-  <b>⚡ Fun Fact:</b> I love building applications that solve real-world problems and transforming raw data into meaningful business insights.
+<p>
+  <b>🔭 Working On:</b> Data Analytics Projects, BI Dashboards, Full-Stack Web Apps<br>
+  <b>🌱 Learning:</b> AI, Machine Learning, Cloud (AWS/Azure), Docker, Kubernetes<br>
+  <b>👯 Collaborate On:</b> Open Source Contributions, AI Projects, Data Analytics<br>
+  <b>📫 Contact:</b> punay.jeric@gmail.com | <b>🌐 Portfolio:</b> <a href="https://jericwin.github.io/Jeric-s-Portfolio/">jericwin.github.io</a><br>
 </p>
 
----
+<br>
+<hr style="width: 50%; border: 1px solid #22c55e;">
+<br>
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2>💻 Tech Stack</h2>
 
-<h4 align="center">Programming Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,javascript,typescript,php,kotlin" />
+<p><b>Programming Languages</b></p>
+<p><img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,php,kotlin" alt="Languages" /></p>
+
+<p><b>Frontend & Backend</b></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flask,nodejs,dotnet" alt="Web Dev" /></p>
+
+<p><b>Databases & AI</b></p>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,tensorflow,pytorch" alt="Data & AI" /></p>
+
+<p><b>Cloud, DevOps & Tools</b></p>
+<p><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,vscode,figma" alt="Tools" /></p>
+
+<br>
+<hr style="width: 50%; border: 1px solid #22c55e;">
+<br>
+
+<h2>📊 GitHub Analytics</h2>
+
+<!-- Stats Cards with Transparent Glass Theme -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jericwin&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&text_color=888888&icon_color=22c55e" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jericwin&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=888888" height="195" alt="Top Languages"/>
 </p>
 
-<h4 align="center">Frontend & Backend Development</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite" /><br><br>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,dotnet,firebase,supabase" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jericwin&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&stroke=22c55e&currStreakLabel=888888" alt="GitHub Streak"/>
 </p>
 
-<h4 align="center">Databases & Data Analytics</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" /><br><br>
-  <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,pytorch,opencv" />
+<br>
+
+<h2>📈 Contribution Graph</h2>
+
+<!-- Activity graph with transparent background -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jericwin&bg_color=00000000&color=888888&line=22c55e&point=22c55e&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
-<h4 align="center">Cloud, DevOps & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" />
+<br>
+
+<h2>🏆 GitHub Trophies</h2>
+
+<!-- Trophies with transparent background -->
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jericwin&theme=transparent&no-bg=true&no-frame=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
 </p>
 
----
+<br>
 
-<h2 align="center">🚀 Featured Projects & Certifications</h2>
+<h2>🐍 Contribution Snake</h2>
 
-<p align="center">
-  <b>⭐ Projects:</b> ECCD Information System • Disaster Risk Management IS • Data Analytics Dashboard • CCS Dean's Lister Portal • Yelo-House Business Dashboard<br><br>
-  <b>🏆 Certifications:</b> Cisco Networking Academy • LinkedIn Learning • DICT Philippines • Wolfram • SMstudy
+<!-- Responsive Snake Animation (Adapts to Dark/Light mode automatically) -->
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jericwin/Jericwin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jericwin/Jericwin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jericwin/Jericwin/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
+<br>
+<br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<blockquote>
+  <i>"Data tells a story, and great software brings that story to life."</i>
+</blockquote>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jericwin&show_icons=true&bg_color=021209&title_color=4ade80&text_color=a7f3d0&icon_color=22c55e&hide_border=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jericwin&layout=compact&bg_color=021209&title_color=4ade80&text_color=a7f3d0&icon_color=22c55e&hide_border=true" alt="Top Languages"/>
-</p>
+<p><b>⭐ Thank you for visiting my profile! ⭐</b></p>
 
-<p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=Jericwin&background=021209&stroke=22c55e&ring=22c55e&fire=4ade80&currStreakNum=a7f3d0&currStreakLabel=a7f3d0&sideNums=a7f3d0&sideLabels=a7f3d0&dates=a7f3d0&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jericwin&bg_color=021209&color=a7f3d0&line=22c55e&point=4ade80&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jericwin&theme=algolia&no-bg=true&no-frame=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <!-- Ensure you have a GitHub Action set up in your repository to generate this SVG file to the 'output' branch -->
-  <img src="https://raw.githubusercontent.com/Jericwin/Jericwin/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-<h3 align="center">💡 Quote</h3>
-
-<p align="center">
-  > <i>"Data tells a story, and great software brings that story to life."</i>
-</p>
-
-<p align="center">
-  <b>⭐ Thank you for visiting my profile! ⭐</b>
-</p>
+</div>
