@@ -71,21 +71,20 @@
 
 <h2>📊 GitHub Analytics</h2>
 
-<!-- Stats Cards with Transparent Glass Theme -->
+<!-- Stable Vercel and Demolab links for stats (Glass Theme) -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Jericwin&show_icons=true&theme=transparent&hide_border=true&title_color=22c55e&text_color=888888&icon_color=22c55e" height="195" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jericwin&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=888888" height="195" alt="Top Languages"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jericwin&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&stroke=22c55e&currStreakLabel=888888" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Jericwin&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&stroke=22c55e&currStreakLabel=888888" alt="GitHub Streak"/>
 </p>
 
 <br>
 
 <h2>📈 Contribution Graph</h2>
 
-<!-- Activity graph with transparent background -->
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jericwin&bg_color=00000000&color=888888&line=22c55e&point=22c55e&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
@@ -94,7 +93,6 @@
 
 <h2>🏆 GitHub Trophies</h2>
 
-<!-- Trophies with transparent background -->
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=Jericwin&theme=transparent&no-bg=true&no-frame=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
 </p>
@@ -103,7 +101,6 @@
 
 <h2>🐍 Contribution Snake</h2>
 
-<!-- Responsive Snake Animation (Adapts to Dark/Light mode automatically) -->
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jericwin/Jericwin/output/github-contribution-grid-snake-dark.svg">
