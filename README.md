@@ -98,8 +98,7 @@
   <p>
   <img src="https://img.shields.io/badge/Total%20Contributions-311-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions: 311"/>
 </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jericwin&layout=compact&theme=transparent&hide_border=true&title_color=22c55e&text_color=888888" height="190"/>
-</p>
+ 
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Jericwin&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&stroke=22c55e&currStreakLabel=888888"/>
