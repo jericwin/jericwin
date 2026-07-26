@@ -100,9 +100,7 @@
 </p>
  
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Jericwin&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&stroke=22c55e&currStreakLabel=888888"/>
-</p>
+
 
 <br>
 
